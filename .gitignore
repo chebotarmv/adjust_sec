@@ -1,0 +1,13 @@
+.vscode
+.idea/
+.local/
+.env
+vendor
+db/bindata.go
+db/mocks
+mock
+mock_*
+.DS_Store
+services/mocks
+*.session.sql
+*.rest
